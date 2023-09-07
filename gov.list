@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,www.google.com
 DOMAIN-SUFFIX,assouth.p.g-tun.com
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 IP-CIDR,136.22.64.0/24,no-resolve
 IP-CIDR,136.22.65.0/24,no-resolve
 IP-CIDR,136.22.67.0/24,no-resolve
